@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "关于××××建设项目的请示",
+    "issuer": "无锡市××集团",
+    "date": "2026年11月25日",
+    "docNumber": "锡政字〔2026〕15号",
+    "isUpward": true,
+    "redHeader": true,
+    "pageNumber": true
+  },
+  "page": {
+    "marginTopMm": 37,
+    "marginBottomMm": 35,
+    "marginLeftMm": 28,
+    "marginRightMm": 26,
+    "gridLines": 22,
+    "gridChars": 28
+  },
+  "blocks": [
+    { "role": "redHeader", "text": "无锡市××集团文件", "color": "red" },
+    { "role": "docNumber", "text": "锡政字〔2026〕15号", "align": "left" },
+    { "role": "signer", "text": "签发人：×××" },
+    { "role": "title", "text": "关于××××建设项目的请示", "spaceBeforeLines": 2 },
+    { "role": "mainRecipient", "text": "无锡市人民政府：" },
+    { "role": "body", "text": "为推进××××建设，根据《××市人民政府关于××××的实施意见》（锡政发〔2026〕×号）要求，我集团拟于2027年启动××××建设项目。现将有关情况请示如下。" },
+    { "role": "h1", "text": "一、项目基本情况" },
+    { "role": "body", "text": "××××项目位于×××，总投资××万元，其中建设投资××万元。项目建设内容主要包括×××、×××，建成后可实现年供水量××万立方米。" },
+    { "role": "h2", "text": "（一）建设必要性" },
+    { "role": "body", "text": "现有××设施于××年建成，至2026年已超设计年限，设备台账共××台，故障率上升至××%。" },
+    { "role": "h1", "text": "二、资金安排" },
+    { "role": "body", "text": "项目资金拟由集团自筹××万元、财政补助××万元解决，其中财政补助部分已列入2027年度市级预算安排。" },
+    { "role": "h1", "text": "三、请示事项" },
+    { "role": "body", "text": "为确保项目按期开工，拟请市政府同意将该项目纳入2027年度市政基础设施建设计划，并按程序办理立项手续。" },
+    { "role": "body", "text": "妥否，请批示。" },
+    { "role": "attachmentNote", "text": "附件：1. ××××项目可行性研究报告", "spaceBeforeLines": 1 },
+    { "role": "issuer", "text": "无锡市××集团", "spaceBeforeLines": 3 },
+    { "role": "date", "text": "2026年11月25日" }
+  ]
+}
