@@ -1,0 +1,5 @@
+# PowerShell 脚本必须是 UTF-8 with BOM，Windows PowerShell 5.1 才能正确解析中文
+*.ps1 text eol=crlf
+*.mjs text eol=lf
+*.md  text eol=lf
+*.json text eol=lf
